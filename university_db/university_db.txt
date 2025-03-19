@@ -1,0 +1,3 @@
+university_db/
+├── create_courses_table.sql
+└── create_enrollments_table.sql
